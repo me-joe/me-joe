@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="20221021_210121.png" />
+<img src="20221021_210121.png" width="50px" />
 <!--
 **Xixada/Xixada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
