@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xixada&show_icons=true&theme=radical)
 
-[![MasterHead](your image link)](https://github.com/Xixada)
+[![MasterHead](https://avatars.githubusercontent.com/u/109602792?v=4)](https://github.com/Xixada)
